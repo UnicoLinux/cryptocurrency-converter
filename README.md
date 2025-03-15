@@ -16,4 +16,4 @@ A Python tool to convert cryptocurrencies to fiat currencies and vice versa usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cryptocurrency-converter.git
+   git clone https://github.com/UnicoLinux/cryptocurrency-converter.git
